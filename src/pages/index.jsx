@@ -14,10 +14,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Pocket - Invest at the perfect time.</title>
+        <title>LiftUp AI - The future of software development</title>
         <meta
           name="description"
-          content="By leveraging insights from our network of industry insiders, you’ll know exactly when to buy to maximize profit, and exactly when to sell to avoid painful losses."
+          content="LiftUp AI is an innovative platform that leverages artificial intelligence to simplify software development.
+          With LiftUp, anyone can create amazing software tools without needing to be an expert coder. Our mission is to democratize software development and unlock human potential."
         />
       </Head>
       <Header />
